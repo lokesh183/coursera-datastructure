@@ -23,5 +23,8 @@ public class BruteForceAlg {
 		System.out.println("-------------------------------------");
 				System.out.println("Lokesh");
 
+
+		System.out.println("-------------------------------------");
+
 	}
 }
