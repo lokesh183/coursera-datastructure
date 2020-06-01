@@ -18,5 +18,7 @@ public class BruteForceAlg {
 		int[] arr = { 30, -40, -20, -10, 40, 0, 10, 5 };
 		int i = new BruteForceAlg().count(arr);
 		System.out.println(i);
+		
+		System.out.println("-------------------------------------");
 	}
 }
